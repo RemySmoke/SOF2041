@@ -2,7 +2,7 @@
 
 -- Đăng nhập bằng tài khoản và mật khẩu mặc định
   - User: remysmoke  
-  - Password: Hanđaouy2003
+  - Password: Handaoduy2003
 
 ![image](https://github.com/hisu87/SOF2041/assets/105136523/650c3550-6b7c-47de-9fc3-40b95c0b9bd6)
 
