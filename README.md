@@ -4,11 +4,13 @@
   - User: remysmoke  
   - Password: Handaoduy2003
 
-![image](https://github.com/hisu87/SOF2041/assets/105136523/650c3550-6b7c-47de-9fc3-40b95c0b9bd6)
+![image](https://github.com/RemySmoke/SOF2041/assets/170938794/4a8cb99c-babd-4112-8d99-e00c7e7438dd)
+
 
 
 Bạn cần phải chạy file SQL để tạo Database trước
-![image](https://user-images.githubusercontent.com/52403567/138551540-cb0381bf-7156-428a-9e49-46fb823457b1.png)
+![image](https://github.com/RemySmoke/SOF2041/assets/170938794/144ae1c0-801e-4b91-937f-363ce4fb50bb)
+
 
 -- Tools used:
   - Netbean 12.4
